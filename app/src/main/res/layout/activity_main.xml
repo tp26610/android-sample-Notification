@@ -34,6 +34,13 @@
         android:text="dismiss action"
         />
 
+    <CheckBox
+        android:id="@+id/cbAutoCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="auto cancel"
+        />
+
     <Button
         android:text="Show"
         android:layout_width="wrap_content"
